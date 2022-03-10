@@ -1,0 +1,8 @@
+{
+    "name": "makeweb/make-fields-conditional",
+    "autoload": {
+        "files": [
+            "src/meta-box-conditional-logic.php"
+        ]
+    }
+}
